@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
 //        val superHeroAdapter = SuperHeroAdapter(list)
 //        rvsuperhero.adapter = superHeroAdapter
 
-
         showRecyclerList()
     }
 
